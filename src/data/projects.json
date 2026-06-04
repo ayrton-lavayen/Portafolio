@@ -1,0 +1,123 @@
+[
+  {
+    "id": "c959d4df-8b89-4326-95e4-45d390250152",
+    "title": "BIA Energy",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de Bia es un proyecto de cliente. Bia es una startup colombiana que desarrolla soluciones tecnológicas para el sector de energía. En este proyecto trabajé en conjunto con el equipo interno de diseño de Bia, aportando en el desarrollo del sitio web para asegurar una experiencia clara, moderna y alineada con la identidad de la empresa.",
+    "image_url": "/assets/wrap-4.png",
+    "sort_order": 1,
+    "project_url": "https://www.bia.app",
+    "bg_color": "#E1E3FF"
+  },
+  {
+    "id": "b519d926-f8ce-49cd-8446-77502ddb1cb2",
+    "title": "Latin Job",
+    "category": "Sitio Web",
+    "date": "2022",
+    "description": "El sitio web de Latin Job es un proyecto personal, su concepto es sobre una organización cuyo propósito es conectar a jóvenes talentos universitarios con empresas y startups, para que los estudiantes puedan ganar experiencia y obtener ingresos mientras trabajan, y al mismo tiempo las empresas inviertan en formar profesionales capacitados para el futuro. Yo me encargué de todo el diseño y desarrollo del sitio web, cuidando tanto la identidad visual como la experiencia de usuario.",
+    "image_url": "/assets/project-latinjob.png",
+    "sort_order": 2,
+    "project_url": "https://latinjob.webflow.io",
+    "bg_color": "#C8E1FF"
+  },
+  {
+    "id": "0d705352-26b5-402c-badc-76b58676554c",
+    "title": "Landa",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de Landa es un proyecto de cliente. Landa es una red de apoyo de extremo a extremo que conecta startups con consultores senior independientes, ofreciendo un ecosistema integral para acompañar el crecimiento y la consolidación de proyectos en todas sus etapas. En este proyecto de cliente, yo me encargué de todo el diseño y desarrollo del sitio web, asegurando una experiencia clara, moderna y funcional, alineada con la propuesta de valor de la empresa y con el objetivo de transmitir confianza y profesionalismo.",
+    "image_url": "/assets/wrap-5.png",
+    "sort_order": 3,
+    "project_url": "https://www.landaclub.com",
+    "bg_color": "#D6E6F7"
+  },
+  {
+    "id": "e48c1145-5482-4ad5-a8ca-691b83457cf1",
+    "title": "Mono",
+    "category": "Sitio Web",
+    "date": "2022",
+    "description": "El sitio web de Mono es un proyecto de cliente. Mono es una fintech que ofrece soluciones financieras para PYMES. En este proyecto yo trabaje junto al equipo interno de diseño de Mono para alinear la visualización del sitio web con el desarrollo asegurando una experiencia moderna, clara y funcional.",
+    "image_url": "/assets/wrap-3.png",
+    "sort_order": 4,
+    "project_url": "https://www.mono.la",
+    "bg_color": "#FFE8F9"
+  },
+  {
+    "id": "6af773e4-ff32-49b5-9775-c1639164cb9c",
+    "title": "Demon Slayer",
+    "category": "Sitio Web",
+    "date": "2022",
+    "description": "El sitio web de Demon Slayer es un proyecto personal creado con el propósito de informar sobre los personajes de la serie. Yo me encargué de todo el diseño y el desarrollo del sitio, cuidando tanto la experiencia visual como la funcionalidad.",
+    "image_url": "/assets/project-1.png",
+    "sort_order": 5,
+    "project_url": "https://demon-slayer.webflow.io",
+    "bg_color": "#FFEED3"
+  },
+  {
+    "id": "4000b2bc-8bee-4c6f-a94a-2f55268a6f66",
+    "title": "Travelex",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de Travelex es un proyecto de cliente. Travelex es una agencia que ayuda a viajeros en Ecuador a gestionar y obtener sus visas de manera ágil y confiable, facilitando el proceso de trámites internacionales. En este proyecto de cliente, yo me encargué tanto del diseño como del desarrollo del sitio web, creando una experiencia clara, moderna y funcional que refleja la propuesta de valor de la empresa y transmite seguridad a sus usuarios.",
+    "image_url": "/assets/wrap-8.png",
+    "sort_order": 6,
+    "project_url": "https://www.travelex.agency",
+    "bg_color": "#E4F6FD"
+  },
+  {
+    "id": "803af568-5795-4f7d-9cb9-a06b9730a486",
+    "title": "Trébol",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "Trébol es una empresa KYB (Know Your Business) que automatiza los procesos manuales de incorporación comercial para bancos, prestamistas y aseguradoras, permitiéndoles aprobar nuevos clientes empresariales en minutos en lugar de días. En este proyecto de cliente, yo me encargué de todo el diseño y desarrollo del sitio web, asegurando una experiencia clara, moderna y funcional, alineada con la propuesta de valor de la empresa y con el objetivo de transmitir eficiencia y confianza en sus servicios.",
+    "image_url": "/assets/wrap-1-3.png",
+    "sort_order": 7,
+    "project_url": "https://www.gotrebol.com/",
+    "bg_color": "#F1F1E2"
+  },
+  {
+    "id": "352851d0-fd51-4d84-8a0b-63567b095ae3",
+    "title": "Genuina",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de Genuina es un proyecto de cliente. Genuina es una plataforma que conecta podcasts independientes en español con marcas visionarias, creando oportunidades de monetización y crecimiento para los creadores mientras ofrece a las empresas un medio auténtico y altamente comprometido para llegar a nuevas audiencias. En este proyecto de cliente, yo me encargué exclusivamente del desarrollo del sitio web, trabajando sobre el diseño brindado por el equipo de Genuina y asegurando una implementación precisa, funcional y alineada con la propuesta de valor de la empresa.",
+    "image_url": "/assets/wrap-7.png",
+    "sort_order": 8,
+    "project_url": "https://www.genuinamedia.com/",
+    "bg_color": "#D7E6E2"
+  },
+  {
+    "id": "3300c328-54b3-495c-9b6f-7f46c54d69ba",
+    "title": "FaceUp",
+    "category": "Comercio electrónico",
+    "date": "2022",
+    "description": "El sitio web de FaceUp es un proyecto personal de comercio electrónico. FaceUp es una empresa enfocada en la venta de productos de maquillaje y cuidado personal para mujeres. Se caracteriza por ser una marca moderna que ofrece artículos de calidad, con el objetivo de brindar servicios digitales respaldados por buenas prácticas de diseño y tecnologías actuales. El sitio fue desarrollado en Webflow, una plataforma que permite crear experiencias digitales atractivas. Sin embargo, a diferencia de soluciones más extendidas en Latinoamérica como WooCommerce o Shopify, la activación de una tienda en línea 100% funcional en Webflow aún no está tan expandida en la región. Por ello, el proyecto está diseñado hasta cierto grado para la compra en línea, pero no cuenta con todas las funcionalidades completas de un ecommerce tradicional. En este proyecto personal, yo me encargué de todo el diseño y desarrollo del sitio web, asegurando una experiencia visual atractiva, funcional y alineada con la identidad de la marca.",
+    "image_url": "/assets/wrap.png",
+    "sort_order": 9,
+    "project_url": "https://faceup-store.webflow.io",
+    "bg_color": "#EAE8FF"
+  },
+  {
+    "id": "b6b50b56-a9fd-4af9-941a-e1c4168b5608",
+    "title": "Castia",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de Castia fue un proyecto de cliente. Castia fue una startup en Colombia que ayudaba a gestionar la compra y el alquiler de propiedades, ofreciendo una plataforma que simplificaba los procesos de arriendo y adquisición. Lamentablemente, el negocio ya no se encuentra activo. En este proyecto de cliente, yo me encargué exclusivamente del desarrollo del sitio web, trabajando con el diseño provisto por su equipo interno y asegurando una implementación funcional y precisa que reflejara la propuesta de valor de la empresa en su momento.",
+    "image_url": "/assets/wrap-6.png",
+    "sort_order": 10,
+    "project_url": "https://www.linkedin.com/company/castiacol",
+    "bg_color": "#F4F9FF"
+  },
+  {
+    "id": "22250a5b-8ee9-4ba8-b58d-a9a56bbfd832",
+    "title": "GenieScouts",
+    "category": "Sitio Web",
+    "date": "2023",
+    "description": "El sitio web de GenieScouts fue un proyecto de cliente. GenieScouts fue una startup que ayudaba a otras startups a encontrar nuevos talentos tech de manera rápida y accesible, facilitando el vínculo entre profesionales emergentes y compañías que buscaban fortalecer sus equipos. Lamentablemente, el negocio ya no se encuentra activo. En este proyecto de cliente, yo me encargué del desarrollo del sitio web, trabajando sobre el diseño provisto por ellos y asegurando una implementación clara, moderna y funcional que reflejara la propuesta de valor de la empresa en su momento.",
+    "image_url": "/assets/wrap-6.png",
+    "sort_order": 11,
+    "project_url": "https://www.linkedin.com/in/genie-scouts-021660247/",
+    "bg_color": "#F4F9FF"
+  }
+]
