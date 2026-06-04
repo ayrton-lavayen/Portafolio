@@ -88,7 +88,7 @@ export default function Contact() {
               <img 
                 alt="Ayrton Lavayen" 
                 className="w-full h-full object-cover"
-                src="/lovable-uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png"
+                src="lovable-uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png"
                 loading="lazy"
               />
             </div>

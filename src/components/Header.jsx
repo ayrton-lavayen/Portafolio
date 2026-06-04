@@ -56,7 +56,7 @@ export default function Header() {
           <img 
             alt="Vayen logo" 
             className="h-8 w-auto md:h-11 object-contain cursor-pointer"
-            src="/lovable-uploads/d252b019-aff6-46b0-bb87-7ce54540c5c6.png"
+            src="lovable-uploads/d252b019-aff6-46b0-bb87-7ce54540c5c6.png"
             onClick={() => handleNavClick("#inicio")}
           />
           
@@ -130,7 +130,7 @@ export default function Header() {
             <img 
               alt="Vayen logo" 
               className="w-10 h-10 object-contain"
-              src="/lovable-uploads/fea7b05c-6a84-42e0-bde4-26ff4098ff2d.png"
+              src="lovable-uploads/fea7b05c-6a84-42e0-bde4-26ff4098ff2d.png"
             />
           </div>
 
