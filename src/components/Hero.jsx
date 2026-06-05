@@ -119,7 +119,7 @@ export default function Hero() {
 
             <button 
               onClick={scrollToProjects}
-              className="flex items-center gap-2 font-medium border-foreground rounded-full hover:bg-foreground hover:text-background transition-colors duration-300 text-sm md:text-base px-5 md:px-[25px] py-3 md:py-[15px] border-2"
+              className="flex items-center gap-2 font-bold border-foreground rounded-full hover:bg-foreground hover:text-background transition-colors duration-300 text-sm md:text-base px-5 md:px-[25px] py-3 md:py-[15px] border-2"
             >
               Desplázate hacia abajo <span className="text-lg">↓</span>
             </button>

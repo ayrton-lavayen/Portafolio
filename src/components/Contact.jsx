@@ -44,7 +44,7 @@ export default function Contact() {
                 href="https://api.whatsapp.com/send?phone=593963206929"
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full font-medium transition-opacity duration-300 text-base py-[15px] px-[30px] border-foreground bg-inherit text-foreground border-2"
+                className="inline-flex items-center justify-center gap-2 rounded-full font-bold transition-opacity duration-300 text-base py-[15px] px-[30px] border-foreground bg-inherit text-foreground border-2"
               >
                 <i className="ti ti-brand-whatsapp text-[20px]" />
                 Escribir por WhatsApp
@@ -54,7 +54,7 @@ export default function Contact() {
                 href="https://calendar.app.google/eYtjNB2j6cwEYJt4A"
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full border border-foreground font-medium transition-colors duration-300 text-base text-background bg-foreground px-[30px] py-[15px] hover:bg-foreground/90"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-foreground font-bold transition-colors duration-300 text-base text-background bg-foreground px-[30px] py-[15px] hover:bg-foreground/90"
               >
                 <Calendar size={16} />
                 Agendar llamada
@@ -71,7 +71,7 @@ export default function Contact() {
                 href="https://www.linkedin.com/in/ayrtonlavayen/"
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="w-full inline-flex items-center justify-center gap-2 rounded-full font-medium transition-colors duration-300 text-primary-foreground text-sm md:text-base bg-primary py-[20px] px-[20px] hover:bg-primary/95 shadow-sm"
+                className="w-full inline-flex items-center justify-center gap-2 rounded-full font-bold transition-colors duration-300 text-primary-foreground text-sm md:text-base bg-primary py-[20px] px-[20px] hover:bg-primary/95 shadow-sm"
               >
                 <i className="ti ti-brand-linkedin text-[20px]" />
                 Conectar en LinkedIn

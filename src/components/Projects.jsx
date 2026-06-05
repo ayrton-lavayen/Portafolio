@@ -97,7 +97,7 @@ export default function Projects() {
           <div className="flex justify-center mt-12">
             <button 
               onClick={loadMore}
-              className="rounded-full bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity duration-300 py-[15px] text-lg px-[100px] shadow-sm"
+              className="rounded-full bg-primary text-primary-foreground font-bold hover:opacity-90 transition-opacity duration-300 py-[15px] text-lg px-[100px] shadow-sm"
             >
               Cargar más
             </button>
