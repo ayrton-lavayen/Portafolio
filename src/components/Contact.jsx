@@ -1,5 +1,6 @@
 import React from 'react';
 import { Mail, Phone, Calendar, Link2 } from 'lucide-react';
+import profilePhoto from '../../public/lovable-uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png';
 
 export default function Contact() {
   return (
@@ -88,7 +89,7 @@ export default function Contact() {
               <img 
                 alt="Ayrton Lavayen" 
                 className="w-full h-full object-cover"
-                src="lovable-uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png"
+                src={profilePhoto}
                 loading="lazy"
               />
             </div>
