@@ -83,21 +83,18 @@ export default function Hero() {
       {blobs.map((blob, idx) => (
         <div
           key={idx}
-          className="absolute rounded-full blur-[120px] pointer-events-none bg-primary"
+          className="absolute rounded-full blur-[80px] pointer-events-none bg-primary"
           style={{
             width: blob.size,
             height: blob.size,
             left: `${blob.x}%`,
             top: `${blob.y}%`,
-            opacity: 0.15,
+            opacity: 0.45,
             willChange: "transform",
             transition: "left 0.1s linear, top 0.1s linear"
           }}
         />
       ))}
-
-      {/* Glassmorphic backdrop blur layer */}
-      <div className="absolute inset-0 z-[1] backdrop-blur-[60px] bg-background/40" />
 
       {/* Hero Content */}
       <div className="relative z-10 max-w-7xl mx-auto w-full pt-0 mt-6 md:mt-[50px] my-0 flex flex-col lg:flex-row items-center gap-8 lg:gap-[35px]">
