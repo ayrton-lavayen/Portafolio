@@ -8,9 +8,8 @@ export default function Hero() {
   const [isDeleting, setIsDeleting] = useState(false);
   
   const [blobs, setBlobs] = useState([
-    { x: 10, y: 15, vx: 0.3, vy: 0.2, size: 400 },
-    { x: 60, y: 50, vx: -0.25, vy: 0.35, size: 300 },
-    { x: 35, y: 75, vx: 0.2, vy: -0.3, size: 350 }
+    { x: 10, y: 15, vx: 0.25, vy: 0.15, size: 600 },
+    { x: 50, y: 45, vx: -0.2, vy: 0.25, size: 500 }
   ]);
   
   const animationRef = useRef();
