@@ -7,8 +7,8 @@ const navItems = [
   { label: "Contacto", href: "#contacto" }
 ];
 
-import logo1 from '../../public/lovable-uploads/d252b019-aff6-46b0-bb87-7ce54540c5c6.png';
-import logo2 from '../../public/lovable-uploads/fea7b05c-6a84-42e0-bde4-26ff4098ff2d.png';
+import logo1 from '../../public/uploads/d252b019-aff6-46b0-bb87-7ce54540c5c6.png';
+import logo2 from '../../public/uploads/fea7b05c-6a84-42e0-bde4-26ff4098ff2d.png';
 
 export default function Header() {
   const [activeSection, setActiveSection] = useState("inicio");

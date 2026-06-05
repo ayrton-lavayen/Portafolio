@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Phone, Calendar, Link2 } from 'lucide-react';
-import profilePhoto from '../../public/lovable-uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png';
+import profilePhoto from '../../public/uploads/deee9444-be8a-49f7-9258-49715e10c3a5.png';
 
 export default function Contact() {
   return (
