@@ -44,7 +44,7 @@ export default function Contact() {
                 href="https://api.whatsapp.com/send?phone=593963206929"
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="inline-flex items-center justify-center gap-2 rounded-full font-medium transition-opacity duration-300 text-base py-[15px] px-[30px] border-foreground bg-inherit text-foreground border-2 hover:bg-foreground hover:text-background"
+                className="inline-flex items-center justify-center gap-2 rounded-full font-medium transition-opacity duration-300 text-base py-[15px] px-[30px] border-foreground bg-inherit text-foreground border-2"
               >
                 <i className="ti ti-brand-whatsapp text-[20px]" />
                 Escribir por WhatsApp

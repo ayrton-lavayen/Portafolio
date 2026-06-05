@@ -18,13 +18,18 @@ export default function Projects() {
   const openProjectDetails = (project, fallbackColor) => {
     setSelectedProject(project);
     setModalBg(project.bg_color || fallbackColor);
-    setIsModalOpen(true);
+    // Defer opening state to let React mount the component before transition starts
+    setTimeout(() => {
+      setIsModalOpen(true);
+    }, 20);
   };
 
   const closeProjectDetails = () => {
     setIsModalOpen(false);
     // Timeout to prevent visual jumps during transition
-    setTimeout(() => setSelectedProject(null), 300);
+    setTimeout(() => {
+      setSelectedProject(null);
+    }, 300);
   };
 
   return (
