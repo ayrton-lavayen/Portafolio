@@ -127,7 +127,7 @@ export default function Hero() {
         </div>
 
         {/* 3D Spline IFrame Container */}
-        <div className="w-full lg:w-1/2 h-[400px] lg:h-[600px] rounded-2xl overflow-hidden shadow-sm border border-border/20 bg-card/10">
+        <div className="w-full lg:w-1/2 h-[400px] lg:h-[600px] rounded-2xl overflow-hidden">
           <iframe 
             src="https://my.spline.design/3dcubes-DMowcjGBy8SkvmQRwfqB53kZ-DRJ/" 
             frameBorder="0" 

@@ -84,14 +84,13 @@ export default function Header() {
             })}
           </nav>
 
-          {/* Desktop Right Button */}
           <a 
             target="_blank" 
             rel="noopener noreferrer"
             className="hidden lg:flex items-center gap-2 rounded-full bg-primary text-primary-foreground font-bold hover:bg-primary/90 transition-colors duration-300 px-[22px] py-[15px] text-base"
             href="https://api.whatsapp.com/send?phone=593963206929"
           >
-            <Phone size={18} />
+            <i className="ti ti-brand-whatsapp text-[20px]" />
             Escribir por WhatsApp
           </a>
 
@@ -165,7 +164,7 @@ export default function Header() {
             rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 rounded-full bg-primary text-primary-foreground text-sm font-bold hover:bg-primary/90 transition-colors duration-300 px-5 py-3.5 mt-auto"
           >
-            <Phone size={18} />
+            <i className="ti ti-brand-whatsapp text-[18px]" />
             Escribir por WhatsApp
           </a>
         </div>

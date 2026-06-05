@@ -8,7 +8,7 @@ export default {
     extend: {
       fontFamily: {
         display: ['"Space Grotesk"', 'sans-serif'],
-        body: ['Inter', 'sans-serif'],
+        body: ['"Space Grotesk"', 'sans-serif'],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -72,7 +72,7 @@ export default {
         }
       },
       animation: {
-        marquee: 'marquee 20s linear infinite',
+        marquee: 'marquee 40s linear infinite',
         'slide-in-right': 'slide-in-right 0.3s cubic-bezier(0.16, 1, 0.32, 1) forwards',
         'slide-out-right': 'slide-out-right 0.3s cubic-bezier(0.16, 1, 0.32, 1) forwards',
         'fade-up': 'fade-up 0.5s ease-out forwards',

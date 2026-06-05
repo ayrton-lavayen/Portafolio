@@ -46,7 +46,7 @@ export default function Contact() {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded-full font-medium transition-opacity duration-300 text-base py-[15px] px-[30px] border-foreground bg-inherit text-foreground border-2 hover:bg-foreground hover:text-background"
               >
-                <Phone size={16} />
+                <i className="ti ti-brand-whatsapp text-[20px]" />
                 Escribir por WhatsApp
               </a>
               
@@ -73,7 +73,7 @@ export default function Contact() {
                 rel="noopener noreferrer"
                 className="w-full inline-flex items-center justify-center gap-2 rounded-full font-medium transition-colors duration-300 text-primary-foreground text-sm md:text-base bg-primary py-[20px] px-[20px] hover:bg-primary/95 shadow-sm"
               >
-                <Link2 size={16} />
+                <i className="ti ti-brand-linkedin text-[20px]" />
                 Conectar en LinkedIn
               </a>
             </div>
