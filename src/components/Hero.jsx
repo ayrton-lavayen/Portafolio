@@ -82,15 +82,14 @@ export default function Hero() {
       {blobs.map((blob, idx) => (
         <div
           key={idx}
-          className="absolute rounded-full blur-[80px] pointer-events-none bg-primary"
+          className="absolute rounded-full blur-[80px] pointer-events-none bg-primary select-none"
           style={{
             width: blob.size,
             height: blob.size,
             left: `${blob.x}%`,
             top: `${blob.y}%`,
             opacity: 0.45,
-            willChange: "transform",
-            transition: "left 0.1s linear, top 0.1s linear"
+            willChange: "transform"
           }}
         />
       ))}
